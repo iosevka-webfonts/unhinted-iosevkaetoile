@@ -1,4 +1,4 @@
-# Unhinted Iosevkaetoile WebFont 29.0.0
+# Unhinted Iosevkaetoile WebFont 29.0.1
 
 ## How to use
 
